@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matt-platts, a full stack web developer since 1998, with coding experience dataing back to ZX81s in 1983 when I used to try and write simple games in 1k!
+- 👋 Hi, I’m @matt-platts, a full stack web developer since 1998, and more recently devops engineer, with coding experience dataing back to ZX81s in 1983 when I used to try and write simple games in 1k!
 
 - 👀 I’m interested in programming, full stack web development, APIs, a huge fan of old school Perl and modern javascript tech alike!
 
