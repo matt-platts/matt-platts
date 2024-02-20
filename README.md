@@ -2,11 +2,11 @@
 
 - 👀 I’m interested in programming, full stack web development, APIs, a huge fan of old school Perl and modern javascript tech alike!
 
-- 🌱 I’m currently looking at Python, React, AWS and a whole bunch more besides.
+- 🌱 I’m currently using Python, React, Google Cloud Platform, Docker, Kubernetes and a whole bunch more besides.
 
 - 💞️ I enjoy collaborating on fun projects!
 
-- 📫 www.mattplatts.com for all the info.
+- 📫 www.mattplatts.com
 
 <!---
 matt-platts/matt-platts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
